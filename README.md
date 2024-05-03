@@ -13,6 +13,9 @@ This simple ATM application is written in Java. The application simulates the ba
 - :credit_card: **Money Transfer**: Users can transfer money to another account.
 - :key: **Password Change**: Users can change their password.
 
+![Screenshot 2024-05-03 043004](https://github.com/m3hdi2gh/ATM/assets/152195372/9b5d0686-6d07-47bf-b1e8-703b6b8ec7e1)
+
+
 ## :file_folder: Code Structure
 
 The application is divided into several classes, each representing a different frame in the application:
