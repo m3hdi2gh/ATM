@@ -2,7 +2,7 @@
 
 The second exercise of the advanced programming course (Spring 2024)
 
-This simple ATM (Automated Teller Machine) application is written in Java. The application simulates the basic operations of an ATM such as cash withdrawal, balance inquiry, money transfer, and password change.
+This simple ATM application is written in Java. The application simulates the basic operations of an ATM such as cash withdrawal, balance inquiry, money transfer, and password change.
 
 ## :star2: Features
 
