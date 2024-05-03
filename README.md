@@ -1,6 +1,7 @@
 # :bank: ATM Project
 
-The second exercise of the advanced programming course (Spring 2024)
+- Advanced Programming Course (Spring 2024)
+- Second Assignment (Graphic and Class)
 
 This simple ATM application is written in Java. The application simulates the basic operations of an ATM such as cash withdrawal, balance inquiry, money transfer, and password change.
 
